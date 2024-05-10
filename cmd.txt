@@ -1,0 +1,10 @@
+1.create docker file with name Dockerfile no extension
+2.create js file 
+3.open terminal check if you are in current working directory
+4.check docker version
+5.check node version 
+6.run js file using 'node sayli.js'
+  js file will run and show output
+7.run 'docker build -t partb(folder name) .
+8.docker images 
+  will show created docker container 
